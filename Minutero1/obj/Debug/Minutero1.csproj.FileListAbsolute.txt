@@ -1,0 +1,10 @@
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero1\bin\Minutero1.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero1\bin\Minutero1.pdb
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero1\obj\Debug\Minutero1.csprojResolveAssemblyReference.cache
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero1\obj\Debug\Minutero1.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero1\obj\Debug\Minutero1.pdb
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero1\bin\Controlador.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero1\bin\Modelo.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero1\bin\Controlador.pdb
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero1\bin\Modelo.pdb
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero1\bin\itextsharp.dll

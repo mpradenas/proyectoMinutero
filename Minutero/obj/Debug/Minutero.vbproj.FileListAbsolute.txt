@@ -1,0 +1,8 @@
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero\bin\Minutero.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero\bin\Minutero.pdb
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero\bin\Minutero.xml
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero\obj\Debug\Minutero.Resources.resources
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero\obj\Debug\Minutero.vbproj.GenerateResource.Cache
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero\obj\Debug\Minutero.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero\obj\Debug\Minutero.xml
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Minutero\obj\Debug\Minutero.pdb

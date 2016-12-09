@@ -1,0 +1,5 @@
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Modelo\bin\Debug\Modelo.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Modelo\obj\Debug\Modelo.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Modelo\obj\Debug\Modelo.pdb

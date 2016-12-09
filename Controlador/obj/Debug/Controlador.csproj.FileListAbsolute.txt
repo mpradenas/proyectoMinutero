@@ -1,0 +1,7 @@
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Controlador\bin\Debug\Controlador.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Controlador\bin\Debug\Modelo.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Controlador\obj\Debug\Controlador.dll
+C:\Users\Gamalyon\Documents\Visual Studio 2012\Projects\ProyectoTitulo\Controlador\obj\Debug\Controlador.pdb
